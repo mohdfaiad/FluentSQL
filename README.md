@@ -31,4 +31,5 @@ begin
   .Free
   ;
   Memo1.Text := S;
+end;
 ```
