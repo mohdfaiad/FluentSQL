@@ -1,6 +1,7 @@
 # FluentSQL
 
 EN : It's kind of an experiment. Please do not get serious.
+
 TR : Çok da ciddiye almayın, sonuçta bu birçeşit deney...
 
 ###### For example.
